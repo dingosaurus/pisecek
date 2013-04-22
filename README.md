@@ -1,0 +1,4 @@
+pisecek
+=======
+
+Pokusy s Githubem
