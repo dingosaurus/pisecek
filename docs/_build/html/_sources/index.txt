@@ -20,6 +20,8 @@ Site Documentation
 
     install
 
+chacha cha
+
 
 Indices and tables
 ==================
