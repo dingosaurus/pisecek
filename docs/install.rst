@@ -4,8 +4,8 @@
 .. _Sphinx: http://Sphinx.com/
 
 
-Instalace
-===============
+Instalace XXX
+=============
 
 It's really easy to start using RTD for your project's documentation. This
 section shows you how.
@@ -14,7 +14,6 @@ If you are already using Sphinx_ for your docs, skip ahead to
 :ref:`import-docs`.
 
 .. image:: images/tshirt.jpg
-
 
 
 Na serveru
